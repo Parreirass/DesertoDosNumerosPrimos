@@ -14,3 +14,11 @@ CEFET-MG
 <p align="justify">
 	O trabalho Deserto dos Números Primos consiste em uma espécie de calculadora que exibe o maior intervalo entre números primos seguidos em um delimitado tamanho de busca.
 </p>
+
+<p align="center">
+<img src="numeros_primos.wepb"/> 
+</p>
+
+<p align="justify">
+	Quanto maior a quantidade inicial de números analisados, maior é o intervalo entre os números primos (deserto entre eles).
+</p>
