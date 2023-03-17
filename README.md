@@ -16,7 +16,7 @@ CEFET-MG
 </p>
 
 <p align="center">
-<img src="numeros_primos.wepb"/> 
+<img src="deseto_primo.jpg"/> 
 </p>
 
 <p align="justify">
